@@ -19,5 +19,8 @@ The hospital management system is a Laravel-based project where there are a tota
 <img width="960" alt="6" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/a5064372-39a1-40ef-83da-12abe59a04c6">
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/708eaf17-d448-4e07-a946-01b9dd222170">
 <img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/7129483d-0029-465f-a557-e07c54868b8e">
+<br/> </br>
+<h2>Some Role wise Demo</h2>
+<h3>For Food Manager</h3>
 
 
