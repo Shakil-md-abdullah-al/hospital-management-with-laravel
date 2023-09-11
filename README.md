@@ -56,12 +56,12 @@ Here Follow the steps one by one
 <h2>2. Database Setup</h2>
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/529a9fb9-0f31-4673-a071-54196279b519">
 <img width="960" alt="3" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/ee55d966-3a5b-4562-8af9-c08d5ed89eb1">
-<h3> Than choose the file that you download from the Database file folder named "hospital.sql</h3>
+<h3> Then choose the file that you download from the Database file folder named "hospital.sql</h3>
 <img width="955" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/97309061-c07b-4a30-81b1-8e5897d0059a">
 <img width="686" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/3fa49251-53e1-43de-9841-a88e28476bbe">
-
-
-
+<h2>3. Now go to local host or run php artisan serve command on terminal to see output in local host</h2>
+<img width="420" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/3e4691b0-fde3-4052-9c41-88d08a776b7c">
+<img width="510" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/55bcbed5-4845-47bc-8cdb-80edfdaac004">
 
 
 
