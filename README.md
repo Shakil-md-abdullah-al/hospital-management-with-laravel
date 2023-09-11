@@ -1,5 +1,9 @@
 # hospital-management-with-laravel
-<h2><b>Hospital Management System With Laravel Framework</b></h2>
+<h1><b>Hospital Management System With Laravel Framework</b></h1>
+<h3>Content</h3>
+<h5>1. Interface</h5>
+<h5>2. Srtup and Configuration</h5>
+<h2>1. Interface</h2>
 The hospital management system is a Laravel-based project where there are a total of 6 types of users are roles. They are:</br>
 <pre>
             ###.....User Types.....###
