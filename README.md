@@ -26,6 +26,13 @@ The Food Manager can only manage food. He/she can Add food Manage dood and see o
 <img width="960" alt="3" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/b56d8ee8-6fac-4263-98a8-f53b94ff08ac">
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/7ac0155f-d285-467b-80a4-852670b404b7">
 <img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/807ff006-4a15-407c-8bec-9b68b14bf05a">
+<br/>
+<br/>
+<h3>For Reciptiosint</h3>
+Here the valid user can only see and manage appointments and user's query
+<img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/8b2abe99-8a1e-422d-8895-7c495ca612ff">
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/43187761-acfb-43d1-8224-1407cdd64a86">
+
 
 
 
