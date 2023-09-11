@@ -1,4 +1,3 @@
-# hospital-management-with-laravel
 <h1><b>Hospital Management System With Laravel Framework</b></h1>
 <h3>Content</h3>
 <h5>1. Interface</h5>
@@ -8,7 +7,7 @@ The hospital management system is a Laravel-based project where there are a tota
 <pre>
             ###.....User Types.....###
             0-->Defeulat USer/ Regular User/ Patient
-            1-->Super Admin (Has access on all sections)
+            1-->Super Admin (Has access to all sections)
             2-->Doctor (Each Doctor can manage his/her own patient, appointment)
             3-->Food Manager( Can manage food and take order form customer)
             4-->Reciptionist
@@ -49,6 +48,12 @@ Here the valid user can only see and manage appointments and user's query
 <img width="514" alt="8" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/add758cb-7556-4828-820e-46b82fe1fdae">
 <img width="960" alt="9" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/daf15653-b204-4ebf-969d-957b465b442d">
 <img width="960" alt="10" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/ac9d3e49-1eb8-4587-8c2a-cc7f922d7144">
+
+<h1>2. Setup and Configuration</h1>
+Here Follow the steps one by one
+<h2>1. Start XAMPP and turn on Apache and MySQL Service</h2>
+<img width="499" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/d56c69a4-b450-4454-af7a-fb8aacc23709">
+
 
 
 
