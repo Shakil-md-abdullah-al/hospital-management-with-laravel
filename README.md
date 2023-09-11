@@ -32,6 +32,9 @@ The Food Manager can only manage food. He/she can Add food Manage dood and see o
 Here the valid user can only see and manage appointments and user's query
 <img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/8b2abe99-8a1e-422d-8895-7c495ca612ff">
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/43187761-acfb-43d1-8224-1407cdd64a86">
+</br>
+<h2>Similarly for Other roles we have manage things like this</h2>
+<h1>Some View of front-End</h1>
 
 
 
