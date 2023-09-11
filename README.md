@@ -1,2 +1,3 @@
 # hospital-management-with-laravel
-#<b>Hospital Management System With Laravel Framework</b>
+<h2><b>Hospital Management System With Laravel Framework</b></h2>
+
