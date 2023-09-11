@@ -1,2 +1,2 @@
 # hospital-management-with-laravel
-<b style-"font-size:40px">Hospital Management System With Laravel Famework</b>
+<b>Hospital Management System With Laravel Framework</b>
