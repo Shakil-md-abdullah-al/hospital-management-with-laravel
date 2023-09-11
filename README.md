@@ -1,8 +1,16 @@
 <h1><b>Hospital Management System With Laravel Framework</b></h1>
-<h3>Content</h3>
-<h5>1. Interface</h5>
-<h5>2. Srtup and Configuration</h5>
-<h2>1. Interface</h2>
+<h2>Content</h2>
+<h5>1. Requirement</h5>
+<h5>2. Interface</h5>
+<h5>3. Setup and Configuration</h5>
+<h2>1. Requirement</h2>
+<pre>
+        1. PHP version 8.0.2 or above
+        2. Composer
+        3. Node JS
+        4. Laravel Version 10
+</pre>
+<h2>2. Interface</h2>
 The hospital management system is a Laravel-based project where there are a total of 6 types of users are roles. They are:</br>
 <pre>
             ###.....User Types.....###
@@ -49,7 +57,7 @@ Here the valid user can only see and manage appointments and user's query
 <img width="960" alt="9" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/daf15653-b204-4ebf-969d-957b465b442d">
 <img width="960" alt="10" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/ac9d3e49-1eb8-4587-8c2a-cc7f922d7144">
 
-<h1>2. Setup and Configuration</h1>
+<h1>3. Setup and Configuration</h1>
 Here Follow the steps one by one
 <h2>1. Start XAMPP and turn on Apache and MySQL Service</h2>
 <img width="499" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/d56c69a4-b450-4454-af7a-fb8aacc23709">
@@ -59,7 +67,7 @@ Here Follow the steps one by one
 <h3> Then choose the file that you download from the Database file folder named "hospital.sql</h3>
 <img width="955" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/97309061-c07b-4a30-81b1-8e5897d0059a">
 <img width="686" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/3fa49251-53e1-43de-9841-a88e28476bbe">
-<h2>3. Now go to local host or run php artisan serve command on terminal to see output in local host</h2>
+<h2>3. Now go to the local host or run the php artisan serve command on the terminal to see the output in the local host</h2>
 <img width="420" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/3e4691b0-fde3-4052-9c41-88d08a776b7c">
 <img width="510" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/55bcbed5-4845-47bc-8cdb-80edfdaac004">
 
