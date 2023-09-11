@@ -33,8 +33,19 @@ Here the valid user can only see and manage appointments and user's query
 <img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/8b2abe99-8a1e-422d-8895-7c495ca612ff">
 <img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/43187761-acfb-43d1-8224-1407cdd64a86">
 </br>
-<h2>Similarly for Other roles we have manage things like this</h2>
+<h2>Similarly for Other roles we have to manage things like these</h2>
 <h1>Some View of front-End</h1>
+<img width="821" alt="4" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/7b6e00ff-ff85-474f-9942-6b71c6265a86">
+<img width="562" alt="5" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/71a77702-d57d-4b7c-aab7-039dbf9043eb">
+<img width="951" alt="6" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/7404e865-b2b1-4be8-a457-a7fadfb2b457">
+<img width="635" alt="7" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/3fe3b5c1-84df-4547-b747-54f1326ad1c8">
+<img width="514" alt="8" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/add758cb-7556-4828-820e-46b82fe1fdae">
+<img width="960" alt="9" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/daf15653-b204-4ebf-969d-957b465b442d">
+<img width="960" alt="10" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/ac9d3e49-1eb8-4587-8c2a-cc7f922d7144">
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/f003e282-2bdc-4bf8-9cd2-eb7effc198ee">
+<img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/211bc0b2-0946-4614-8b77-da403c649b9a">
+<img width="885" alt="3" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/b0c5437e-7c5e-4e6b-bf45-e713265f0aeb">
+
 
 
 
