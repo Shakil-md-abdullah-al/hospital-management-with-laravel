@@ -23,7 +23,10 @@ The hospital management system is a Laravel-based project where there are a tota
 <h2>Some Role wise Demo</h2>
 <h3>For Food Manager</h3>
 The Food Manager can only manage food. He/she can Add food Manage dood and see order and delivers
-![image](https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/6f7874dc-32a4-41dc-bc10-08e066482ff1)
+<img width="960" alt="3" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/b56d8ee8-6fac-4263-98a8-f53b94ff08ac">
+<img width="960" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/7ac0155f-d285-467b-80a4-852670b404b7">
+<img width="960" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/807ff006-4a15-407c-8bec-9b68b14bf05a">
+
 
 
 
