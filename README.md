@@ -83,6 +83,7 @@ If not then run <b>cp .env.example .env</b> command in your terminal. It would b
 
 1. Set up your database name here 
 ![image](https://github.com/user-attachments/assets/1aea9f08-9cf4-42ff-9b40-75b5cf643763)
+</br>
 **Example:**
 
 <pre>
