@@ -3,7 +3,7 @@
 <h5>1. Requirement</h5>
 <h5>2. Interface</h5>
 <h5>3. Setup and Configuration</h5>
-<h5>Issue</h5>
+<h5>4. Issue</h5>
 <h2>1. Requirement</h2>
 
 <pre>
@@ -74,11 +74,12 @@ Here Follow the steps one by one
 <img width="510" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/55bcbed5-4845-47bc-8cdb-80edfdaac004">
 
 <br>
-<h2>Issue</h2>
-Thank you so much. At the beginning, you have to run the command **composer update** and restart the code in the editor. It would be solved. 
+<h1>Issue</h1>
+</br>
+Thank you so much. At the beginning, you have to run the command <b>composer update</b> and restart the code in the editor. It would be solved. 
 
 <h3>1. I could not found the .env file in this project</h3>
-If not then run **cp .env.example .env** command in your terminal. It would made a new env file. How you should follow the steps:
+If not then run <b>cp .env.example .env</b> command in your terminal. It would be made a new env file. How you should follow the steps:
 
 1. Set up your database name here 
 ![image](https://github.com/user-attachments/assets/1aea9f08-9cf4-42ff-9b40-75b5cf643763)
