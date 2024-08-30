@@ -80,6 +80,7 @@ Thank you so much. At the beginning, you have to run the command <b>composer upd
 
 <h3>1. I could not found the .env file in this project</h3>
 If not then run <b>cp .env.example .env</b> command in your terminal. It would be made a new env file. How you should follow the steps:
+</br>
 
 1. Set up your database name here 
 ![image](https://github.com/user-attachments/assets/1aea9f08-9cf4-42ff-9b40-75b5cf643763)
