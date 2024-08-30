@@ -85,7 +85,8 @@ If not then run <b>cp .env.example .env</b> command in your terminal. It would b
 ![image](https://github.com/user-attachments/assets/1aea9f08-9cf4-42ff-9b40-75b5cf643763)
 **Example:**
 
-> APP_NAME=Laravel
+<pre>
+    > APP_NAME=Laravel
 > APP_ENV=local
 > APP_KEY=base64:your-app-key-here
 > APP_DEBUG=true
@@ -97,6 +98,7 @@ If not then run <b>cp .env.example .env</b> command in your terminal. It would b
 > DB_DATABASE=your_database_name
 > DB_USERNAME=your_username
 > DB_PASSWORD=your_password
+</pre>
 
 2. Run command to create a new app key : **php artisan key:generate**
 3. Then Run the program
