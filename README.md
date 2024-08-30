@@ -3,7 +3,9 @@
 <h5>1. Requirement</h5>
 <h5>2. Interface</h5>
 <h5>3. Setup and Configuration</h5>
+<h5>Issue</h5>
 <h2>1. Requirement</h2>
+
 <pre>
         1. PHP version 8.0.2 or above
         2. Composer
@@ -70,6 +72,39 @@ Here Follow the steps one by one
 <h2>3. Now go to the local host or run the php artisan serve command on the terminal to see the output in the local host</h2>
 <img width="420" alt="2" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/3e4691b0-fde3-4052-9c41-88d08a776b7c">
 <img width="510" alt="1" src="https://github.com/Shakil-md-abdullah-al/hospital-management-with-laravel/assets/65440571/55bcbed5-4845-47bc-8cdb-80edfdaac004">
+
+<br>
+<h2>Issue</h2>
+Thank you so much. At the beginning, you have to run the command **composer update** and restart the code in the editor. It would be solved. 
+
+<h3>1. I could not found the .env file in this project</h3>
+If not then run **cp .env.example .env** command in your terminal. It would made a new env file. How you should follow the steps:
+
+1. Set up your database name here 
+![image](https://github.com/user-attachments/assets/1aea9f08-9cf4-42ff-9b40-75b5cf643763)
+**Example:**
+
+> APP_NAME=Laravel
+> APP_ENV=local
+> APP_KEY=base64:your-app-key-here
+> APP_DEBUG=true
+> APP_URL=http://localhost
+> 
+> DB_CONNECTION=mysql
+> DB_HOST=127.0.0.1
+> DB_PORT=3306
+> DB_DATABASE=your_database_name
+> DB_USERNAME=your_username
+> DB_PASSWORD=your_password
+
+2. Run command to create a new app key : **php artisan key:generate**
+3. Then Run the program
+
+### Notes!!!
+If you still face any issue ensure that npm is installed for globally or follow:
+1. npm install
+2. npm run dev
+3. Now follow from step 1 hope it would be solved
 
 
 
